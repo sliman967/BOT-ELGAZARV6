@@ -30,7 +30,7 @@ global.linkz = "https://youtube.com/@user-ss4wn7pb1y" //your theme url which wil
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@user-ss4wn7pb1y' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣القياده سليمان شخصيآ⍣" 
+global.packname = "⍣القياده سليمان شخصيآ.⍣" 
  
 ⍣" //ur sticker watermark packname
 global.author = "⍣967777263927⍣" //ur sticker watermark author
